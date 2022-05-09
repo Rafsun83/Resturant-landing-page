@@ -1,0 +1,21 @@
+.navigationpart {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0rem 0rem 0rem;
+}
+
+.formsearch {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.btnlog {
+    background: orange;
+    border: none;
+    color: white;
+}
+
+.navsection {
+    margin-bottom: 1rem;
+}

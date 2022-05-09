@@ -1,0 +1,22 @@
+.popular {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1rem;
+}
+
+.cardpopular {
+    display: flex;
+    gap: 1rem;
+    display: flex;
+    padding-bottom: 1rem;
+    line-height: 1rem;
+}
+
+.populartext {
+    text-align: left;
+}
+
+.viewsmember {
+    padding-top: 9rem;
+    color: orangered;
+}

@@ -1,0 +1,38 @@
+.Catagoriesection {
+    padding: 1rem;
+}
+
+.Featureshead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.foodname {
+    padding-bottom: 1rem;
+}
+
+.btnarrow {
+    border: none;
+    border-radius: 100%;
+    background: orange;
+}
+
+.img-fluid {
+    padding-top: 3rem;
+}
+
+.foodscard {
+    display: flex;
+}
+
+.foodcard {
+    display: flex;
+    gap: 1rem;
+}
+
+.cardamount {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

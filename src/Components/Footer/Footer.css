@@ -1,0 +1,60 @@
+.footertop {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 1rem 0rem 1rem 0rem;
+}
+
+.footerback {
+    background-color: rgb(62, 70, 85);
+}
+
+.icon {
+    display: flex;
+    gap: 1rem;
+}
+
+.fotterbottom {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 2rem 0rem 2rem 0rem;
+}
+
+.footerclass {
+    background-color: rgb(38, 52, 76);
+}
+
+.fotterlastcolor {
+    background-color: rgb(47, 54, 68);
+}
+
+.footerlast {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 1rem 0rem 1rem 0rem;
+}
+
+.footercon {
+    display: flex;
+    gap: 2rem;
+}
+
+.dnldimg {
+    display: flex;
+    gap: 1rem;
+}
+
+.letsup {
+    line-height: .5rem;
+    text-align: left;
+    padding-bottom: 1rem;
+
+}
+
+.lets {
+    padding-top: 1rem;
+    line-height: .5rem;
+    text-align: left;
+}

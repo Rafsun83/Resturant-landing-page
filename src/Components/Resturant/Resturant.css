@@ -1,0 +1,10 @@
+.resturant {
+    display: flex;
+    justify-content: space-between;
+}
+
+.resturantname {
+    display: flex;
+    gap: 1rem;
+    padding-bottom: 1rem;
+}
